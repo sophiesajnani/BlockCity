@@ -1,0 +1,238 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  min-width:200px;
+  max-width:375px;
+  margin:auto;
+  background-color:rgba(255, 255, 255, 1);
+  overflow:hidden;
+}
+.Frame-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:2;
+}
+.fff3333-1{
+  position:relative;
+  z-index:11;
+  pointer-events:none;
+  margin-left:71px;
+  width:228px;
+  min-width:228px;
+  height:152px;
+  margin-top:65px;
+  margin-bottom:595px;
+  min-height:152px;
+  content:url(assets/images/fff3333_1.png);
+}
+.fff3333-1-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:11;
+}
+.Rectangle-76{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:31px;
+  width:297px;
+  min-width:297px;
+  height:290px;
+  margin-top:-551px;
+  margin-bottom:261px;
+  min-height:290px;
+  background-color:rgba(102, 179, 179, 1);
+}
+.Rectangle-76-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:3;
+}
+.Rectangle-77{
+  position:relative;
+  z-index:4;
+  pointer-events:none;
+  margin-left:39px;
+  width:309px;
+  min-width:309px;
+  height:291px;
+  margin-top:-544px;
+  margin-bottom:253px;
+  min-height:291px;
+  background-color:rgba(255, 255, 255, 1);
+  filter:drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  border:1px solid rgba(0, 0, 0, 1);
+  box-sizing:border-box;
+}
+.Rectangle-77-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:4;
+}
+.Rectangle-78{
+  position:relative;
+  z-index:5;
+  pointer-events:none;
+  margin-left:51px;
+  width:286px;
+  min-width:286px;
+  height:45px;
+  margin-top:-521px;
+  margin-bottom:476px;
+  min-height:45px;
+  content:url(assets/images/Rectangle_78.png);
+}
+.Rectangle-78-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:5;
+}
+.q205-590-5576{
+  position:relative;
+  z-index:10;
+  pointer-events:none;
+  margin-left:61px;
+  width:205px;
+  min-width:205px;
+  margin-top:-509px;
+  margin-bottom:488px;
+  min-height:21px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:500;
+  font-size:14px;
+  letter-spacing:0.42px;
+  line-height:17px;
+}
+.q205-590-5576-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:10;
+}
+.Rectangle-79{
+  position:relative;
+  z-index:6;
+  pointer-events:none;
+  margin-left:51px;
+  width:286px;
+  min-width:286px;
+  height:45px;
+  margin-top:-432px;
+  margin-bottom:387px;
+  min-height:45px;
+  background-color:rgba(255, 255, 255, 1);
+  border:1px solid rgba(139, 189, 217, 1);
+  box-sizing:border-box;
+  border-radius:4px;
+}
+.Rectangle-79-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:6;
+}
+.q---------{
+  position:relative;
+  z-index:7;
+  pointer-events:none;
+  margin-left:61px;
+  width:152px;
+  min-width:152px;
+  margin-top:-417px;
+  margin-bottom:396px;
+  min-height:21px;
+  text-align:left;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(0, 0, 0, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:500;
+  font-size:14px;
+  letter-spacing:0.42px;
+  line-height:17px;
+}
+.q----------outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:7;
+}
+.Login{
+  position:relative;
+  z-index:9;
+  pointer-events:none;
+  margin-left:0px;
+  width:358px;
+  min-width:358px;
+  margin-top:-347px;
+  margin-bottom:279px;
+  min-height:68px;
+  text-align:center;
+  display:flex;
+  flex-direction:column;
+  justify-content:flex-start;
+  color:rgba(255, 255, 255, 1);
+  font-style:normal;
+  font-family:Lato;
+  font-weight:400;
+  font-size:19px;
+  letter-spacing:0.57px;
+  line-height:23px;
+}
+.Login-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:9;
+}
+.Rectangle-80{
+  position:relative;
+  z-index:8;
+  pointer-events:none;
+  margin-left:87px;
+  width:202px;
+  min-width:202px;
+  height:31px;
+  margin-top:-347px;
+  margin-bottom:316px;
+  min-height:31px;
+  background-color:rgba(102, 179, 179, 1);
+  border-radius:3px;
+}
+.Rectangle-80-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:8;
+}
