@@ -1,0 +1,51 @@
+.websiteBody{
+  margin: 0;
+}.Page{
+  display:block;
+  margin:auto;
+  width:100%;
+  height:auto;
+  pointer-events:auto;
+}
+.Page-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:1;
+}
+.Frame{
+  position:relative;
+  z-index:2;
+  pointer-events:none;
+  width:100%;
+  margin-left:0;
+  min-width:200px;
+  max-width:375px;
+  margin:auto;
+  background-color:#ffffff;
+}
+.Frame-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:2;
+}
+.Home-Page{
+  position:relative;
+  z-index:3;
+  pointer-events:none;
+  margin-left:0px;
+  width:375px;
+  min-width:375px;
+  height:812px;
+  margin-top:0px;
+  margin-bottom:NaNpx;
+  min-height:812px;
+  content:url(assets/images/Home_Page.png);
+}
+.Home-Page-outer{
+  position:relative;
+  display:flex;
+  pointer-events:none;
+  z-index:3;
+}
